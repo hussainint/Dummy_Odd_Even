@@ -1,4 +1,4 @@
- package Dummy_Odd_Even;
+package Dummy_Odd_Even;
 
 import java.util.Scanner;
 
@@ -23,10 +23,27 @@ import java.util.Scanner;
         System.out.println("It is even");
         else if(k == 5)
         System.out.println("It is Odd");
+        else if(k == 6)
+        System.out.println("It is even");
+        else if(k == 7)
+        System.out.println("It is Odd");
+        else if(k == 8)
+        System.out.println("It is even");
+        else if(k == 9)
+        System.out.println("It is Odd");
 
-        //condition till number 5
+        //condition till number 9
+
+
         
         sc.close();
 
      }
  }
+
+ // contributors name
+
+ //1. hussain
+
+
+ 
