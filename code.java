@@ -12,7 +12,7 @@ import java.util.Scanner;
 
       System.out.println("Enter a number to check for odd even Range(1-5)");
         int k= sc.nextInt();
-   // condition starts here
+   
         if(k == 1)
         System.out.println("It is Odd");
        else if(k == 2)
@@ -23,11 +23,9 @@ import java.util.Scanner;
         System.out.println("It is even");
         else if(k == 5)
         System.out.println("It is Odd");
-        else if(k == 6)
-        System.out.println("It is Even");
-        else if(k == 7)
-        System.out.println("It is Odd");
 
+        //condition till number 5
+        
         sc.close();
 
      }
